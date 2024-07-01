@@ -12,7 +12,7 @@
 # *2.Menampilkan Nama Proyek yang dikerjakan oleh Karyawan dari Departemen 'RnD'*
 
 # OUTPUTNYA:
-![B](https://github.com/lutpi9/praktikumUAS/assets/147919251/17671d64-3948-40c5-a1cd-cfa10e32d5d6)
+![2](https://github.com/lutpi9/praktikumUAS/assets/147919251/42630ca0-4d7d-4983-91fc-395dccb24df0)
 
 # *3. Menampilkan Nama Karyawan yang Terlibat dalam Lebih dari Satu Proyek*
 
@@ -29,7 +29,7 @@
 # *5. Menampilkan Nama Proyek yang Diikuti oleh Karyawan dengan Gaji Pokok Kurang dari 3 Juta*
 
 # OUTPUTNYA:
-![A](https://github.com/lutpi9/praktikumUAS/assets/147919251/3dff98b4-4235-493b-afd8-ba552ef85f46)
+![5](https://github.com/lutpi9/praktikumUAS/assets/147919251/e4d0c49f-58d3-4d50-b114-9f48807360ea)
 
 # selesai
 
